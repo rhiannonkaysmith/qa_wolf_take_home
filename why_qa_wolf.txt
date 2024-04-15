@@ -1,0 +1,11 @@
+As someone who has worked in QA I have always tried to find better ways automation can be done or improved upon. Starting out my career 
+I had no programming knowledge, being keen to automate tasks I learnt python and sql while on the job. Understanding how HTML works and 
+using xpaths daily within my job doing web scraping, which was beyond my job title. Taking ownership of the scraping allowed me to get stuck
+into each problem and work to solve it while collaborating with others. Reviewing PRs from the team and mentoring others on areas where
+my skillset was greater and learning from team members with different skills. This allowed me the freedom to experiment with new ideas
+constantly to improve systems while learning something new. This is why I believe QA Wolf would be a great fit as a start-up company for
+myself as I want to be a part of shaping the company as well as myself. I am always looking to try something new and I hope my 
+assessment shows you this.
+Being keen on continuing my development I have been progressing in my coding skills by challenging myself on sites such as AdventOfCode as
+well as codinggames. With little knowledge of JavaScript and never using Playwright before I saw this assessment as a challenge,
+reading documentation I have completed the task. I am looking forward to receiving your feedback on my approach as well as improvements.
